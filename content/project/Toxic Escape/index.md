@@ -4,7 +4,7 @@ summary: "A Unity-based research game modeling how players cope with online toxi
 tags: ["Unity", "Game Design", "Affective HCI", "Online Harm"]
 date: 2025-09-01
 image:
-  filename: "toxic-escape.gif"
+  filename: "toxic-escape.png"
   focal_point: "Center"
 links: []
 ---
