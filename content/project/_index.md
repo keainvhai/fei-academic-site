@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "My Projects"
 date: 2025-12-01
 type: section # ✅ 用 section 替换 landing
@@ -16,4 +16,12 @@ sections:
     design:
       view: list
       columns: 1
+--- -->
+
+---
+
+title: "Projects"
+type: page
+layout: projects
+
 ---
