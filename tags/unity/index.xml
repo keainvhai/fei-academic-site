@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unity | Fei Xue Academic</title>
+    <link>https://keainvhai.github.io/tags/unity/</link>
+      <atom:link href="https://keainvhai.github.io/tags/unity/index.xml" rel="self" type="application/rss+xml" />
+    <description>Unity</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://keainvhai.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Unity</title>
+      <link>https://keainvhai.github.io/tags/unity/</link>
+    </image>
+    
+    <item>
+      <title>Toxic Escape</title>
+      <link>https://keainvhai.github.io/project/toxic-escape/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://keainvhai.github.io/project/toxic-escape/</guid>
+      <description>&lt;p&gt;Toxic Escape is an HCI research game designed to explore how players cope with online toxicity.
+The game represents harmful online comments as “toxic monsters” that follow the player, prompting them to choose among three coping strategies:&lt;/p&gt;
+&lt;p&gt;Confront – respond to the monster with skill-based actions that represent direct engagement.&lt;/p&gt;
+&lt;p&gt;Soothe – activate a breathing shield or calming effect to reduce emotional intensity.&lt;/p&gt;
+&lt;p&gt;Avoid – reposition or escape to a “safe zone,” representing boundary-setting in digital spaces.&lt;/p&gt;
+&lt;p&gt;Built in Unity (C#), the game models coping strategies used in digital harm contexts and supports experiments on:&lt;/p&gt;
+&lt;p&gt;emotional regulation and stress recovery&lt;/p&gt;
+&lt;p&gt;perceived safety and control&lt;/p&gt;
+&lt;p&gt;effectiveness of different coping strategies&lt;/p&gt;
+&lt;p&gt;player behavior and decision-making under pressure&lt;/p&gt;
+&lt;p&gt;This prototype serves as an embodied, experiential platform for studying online harm, psychological safety, and affective interaction design, and will support future user studies comparing different in-game coping modes.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

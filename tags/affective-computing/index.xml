@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Affective Computing | Fei Xue Academic</title>
+    <link>https://keainvhai.github.io/tags/affective-computing/</link>
+      <atom:link href="https://keainvhai.github.io/tags/affective-computing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Affective Computing</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://keainvhai.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Affective Computing</title>
+      <link>https://keainvhai.github.io/tags/affective-computing/</link>
+    </image>
+    
+    <item>
+      <title>Compassionate AI for Emotional Support</title>
+      <link>https://keainvhai.github.io/project/compassionate-ai/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://keainvhai.github.io/project/compassionate-ai/</guid>
+      <description>&lt;p&gt;The Compassionate AI System is a two-stage conversational architecture designed to support users experiencing emotional distress, online harm, or psychological vulnerability.
+It combines computational emotion understanding with empathetic, trauma-informed response generation.&lt;/p&gt;
+&lt;p&gt;Stage 1 — Psychological State Modeling&lt;/p&gt;
+&lt;p&gt;The system analyzes user input using:&lt;/p&gt;
+&lt;p&gt;emotion classification&lt;/p&gt;
+&lt;p&gt;appraisal-based reasoning (threat, control, injustice)&lt;/p&gt;
+&lt;p&gt;crisis &amp;amp; trigger phrase detection&lt;/p&gt;
+&lt;p&gt;disclosure depth and distress estimation&lt;/p&gt;
+&lt;p&gt;This creates a structured internal representation of user affect that guides the downstream response generation.&lt;/p&gt;
+&lt;p&gt;Stage 2 — Compassionate Response Generation&lt;/p&gt;
+&lt;p&gt;Using the Stage-1 state signals, the AI produces responses that are:&lt;/p&gt;
+&lt;p&gt;emotionally attuned&lt;/p&gt;
+&lt;p&gt;calming and grounding&lt;/p&gt;
+&lt;p&gt;culturally sensitive&lt;/p&gt;
+&lt;p&gt;trauma-informed&lt;/p&gt;
+&lt;p&gt;safe for high-distress disclosure moments&lt;/p&gt;
+&lt;p&gt;The system integrates empathy cues, transparency statements, and variable-depth conversational strategies to maintain psychological safety.&lt;/p&gt;
+&lt;p&gt;Research Goals&lt;/p&gt;
+&lt;p&gt;This project investigates:&lt;/p&gt;
+&lt;p&gt;how users express emotion and vulnerability in AI-mediated conversations&lt;/p&gt;
+&lt;p&gt;how empathetic vs. neutral vs. non-compassionate AI behaviors influence trust&lt;/p&gt;
+&lt;p&gt;how design cues shape safe self-disclosure&lt;/p&gt;
+&lt;p&gt;what conversational strategies help reduce shame, fear, or emotional overload&lt;/p&gt;
+&lt;p&gt;Applications&lt;/p&gt;
+&lt;p&gt;The system supports studies in:&lt;/p&gt;
+&lt;p&gt;online harm recovery&lt;/p&gt;
+&lt;p&gt;digital well-being&lt;/p&gt;
+&lt;p&gt;affective HCI&lt;/p&gt;
+&lt;p&gt;responsible &amp;amp; emotionally intelligent AI design&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
