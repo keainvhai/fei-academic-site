@@ -1,27 +1,19 @@
-<!-- ---
+---
 title: "My Projects"
 date: 2025-12-01
-type: section # ✅ 用 section 替换 landing
+type: section
 layout: landing
 hide_date: true
 
 sections:
   - block: collection
     content:
-      title: My Projects
-      text: Here are selected projects I built recently.
+      title: "My Projects"
+      text: "Here are selected projects I built recently."
       filters:
         folders:
           - project
     design:
       view: list
       columns: 1
---- -->
-
----
-
-title: "Projects"
-type: page
-layout: projects
-
 ---
